@@ -1,3 +1,3 @@
 # TESTING
 
-create conflict 2
+create conflict 1
